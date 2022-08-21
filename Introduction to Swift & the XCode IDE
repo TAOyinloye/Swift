@@ -1,0 +1,2 @@
+On macOS, if you create a project in 12.4 it will run fine in 12.5 and higher versions but if you created your project in a higher level, you will have to set the deployment target back for running 12.5 in 12.4, set back by 0.1.  
+See the Xcode Interface
