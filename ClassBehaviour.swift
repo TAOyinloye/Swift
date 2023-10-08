@@ -21,11 +21,3 @@ print("Fullname of studentOne: \(studentOne.fullName)")
 print("ID of studentOne: \(studentOne.studentId)")
 print("Fullname of studentTwo: \(studentTwo.fullName)")
 print("ID of studentTwo: \(studentTwo.studentId)")
-
-
-
-
-
-//let studentTwo = MyCo6225Class (fullName: "", studentId: 002)
-//let studentThree = MyCo6225Class (fullName: "Lucas Omahony", studentId: 003)
-
