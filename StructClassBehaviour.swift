@@ -4,7 +4,7 @@ class Number : CustomStringConvertible
      The class adopts a protocol "CustomStringConvertible"
      CustomStringConvertible  is useful for converting any type to string to enable printing of the value in the class.*/
     {
-    //for the class, we can decalre a variable "number" of integer type
+    //for the class, we can declare a variable "number" of integer type
     var number : Int
         
     /*create an init method.  We need this to create an instance of the class.
